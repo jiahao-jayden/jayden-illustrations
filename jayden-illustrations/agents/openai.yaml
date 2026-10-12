@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jayden 正文配图"
+  short_description: "使用 Jayden 黑发眼镜黑衣角色，为中文文章生成清爽手绘配图"
+  default_prompt: "Use $jayden-illustrations 为这篇中文文章设计并生成几张使用 Jayden 个人形象的手绘正文配图。"
+policy:
+  allow_implicit_invocation: true
